@@ -1,1 +1,1 @@
-# CodeAlpha_Task2
+A simple C++ project that implements a Student Login and Registration System. This program allows user to register with a username and password, validates input and supports the Login functionality . Designed the beginners to understand file handling. 
